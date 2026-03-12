@@ -4,7 +4,7 @@ const app = express()
 const PORT = 8080
 
 app.get('/', (req, res) => {
-    res.json({ msg: 'hello world 2' })
+    res.json({ msg: 'kuch bhi ' })
 })
 
 
